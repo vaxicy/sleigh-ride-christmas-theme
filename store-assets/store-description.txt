@@ -1,9 +1,1 @@
-Sleigh Ride Christmas Theme
-
-Summary
-A calm pine-green Christmas theme with Santa's sleigh, a warm cream toolbar, and a little holiday magic above every search.
-
-Description
-Bring a quiet Christmas moment to Chrome. A pine-green window frame pairs with a warm cream toolbar, while Santa and two reindeer ride above the native Google wordmark on a spacious green new tab page.
-
-Static festive artwork, a simple red sleigh icon, and clear light text keep the holiday palette calm and readable. No scripts, no permissions, and no data collection.
+Sleigh Ride is a calm Christmas Chrome theme: a pine-green frame, a warm cream toolbar, and Santa's sleigh riding above the native Google logo on a spacious green New Tab Page. Light text stays readable, and there are no scripts, permissions, or data collection.
