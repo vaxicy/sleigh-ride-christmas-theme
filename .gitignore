@@ -1,0 +1,12 @@
+.codebuddy/
+*.bak
+*._bak
+debug/
+scripts/debug/
+Cached Theme.pak
+*.pak
+__pycache__/
+*.pyc
+logo-candidates/
+source/
+store-assets/references/

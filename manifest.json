@@ -1,0 +1,25 @@
+{
+  "manifest_version": 3,
+  "name": "Sleigh Ride Christmas Theme",
+  "version": "1.0.0",
+  "description": "A calm pine-green Christmas theme with a crisp flat Santa sleigh and warm cream toolbar.",
+  "icons": {"128": "logo/logo128.png"},
+  "theme": {
+    "images": {"theme_ntp_background": {"100": "images/background.png", "200": "images/background@2x.png"}},
+    "colors": {
+      "frame": [36, 76, 61],
+      "frame_inactive": [36, 76, 61],
+      "toolbar": [247, 238, 223],
+      "tab_text": [36, 76, 61],
+      "tab_background_text": [251, 246, 237],
+      "tab_background_text_inactive": [251, 246, 237],
+      "bookmark_text": [36, 76, 61],
+      "ntp_background": [36, 76, 61],
+      "ntp_text": [251, 246, 237]
+    },
+    "properties": {
+      "ntp_background_alignment": "top",
+      "ntp_background_repeat": "no-repeat"
+    }
+  }
+}
