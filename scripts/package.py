@@ -8,7 +8,7 @@ version = manifest['version']
 for upload in (False, True):
     suffix = '-upload' if upload else ''
     output = root.parent.parent/f'sleigh-ride-christmas-theme-{version}{suffix}.zip'
-    names = ['manifest.json','images','logo'] if upload else ['manifest.json','images','logo','source','scripts','store-assets','README.md']
+    names = ['manifest.json','images','logo'] if upload else ['manifest.json','images','logo','source','scripts','store-assets','README.md','LICENSE']
     with ZipFile(output,'w',ZIP_DEFLATED) as archive:
         for name in names:
             path = root/name
